@@ -1,4 +1,5 @@
-# Write three C++ programs that communicate using shared memory and pipes
+# Pipe and Shared Memory
+Write three C++ programs that communicate using shared memory and pipes
 
 
 ## mainParent.cpp: 
